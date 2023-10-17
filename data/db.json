@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "usuario": "John Doe",
+      "user": "John Doe",
       "email": "john.due@gmail.com"
     }
   ],
@@ -13,8 +13,7 @@
       "publisher": "DC Comics",
       "alter_ego": "Bruce Wayne",
       "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne",
-      "alt_img": "https://i.pinimg.com/1200x/db/1a/3f/db1a3fb338ec668524dcd61f9199c4d2.jpg"
+      "characters": "Bruce Wayne"
     },
     {
       "id": "dc-superman",
@@ -71,6 +70,22 @@
       "alter_ego": "Dick Grayson",
       "first_appearance": "Detective Comics #38",
       "characters": "Dick Grayson"
+    },
+    {
+      "id": "dc-blue",
+      "superhero": "Blue Beetle",
+      "publisher": "DC Comics",
+      "alter_ego": "Dan Garret",
+      "first_appearance": "Mystery Men Comics #1",
+      "characters": "Dan Garret, Ted Kord, Jaime Reyes"
+    },
+    {
+      "id": "dc-black",
+      "superhero": "Black Canary",
+      "publisher": "DC Comics",
+      "alter_ego": "Dinah Drake",
+      "first_appearance": "Flash Comics #86",
+      "characters": "Dinah Drake, Dinah Lance"
     },
     {
       "id": "marvel-spider",
